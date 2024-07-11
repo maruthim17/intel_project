@@ -18,6 +18,12 @@ upower:
 Resource Efficiency:
 -Minimal performance impact compared to virtual machines.
 -Lightweight nature makes it suitable for continuous monitoring tasks.
+ARCHITECTURE DIAGRAM![image](https://github.com/maruthim17/intel_project/assets/170094693/584f267b-90d8-4da9-8071-7a78cb9ab436)
+
+
+![image](https://github.com/maruthim17/intel_project/assets/170094693/aff63f3c-efc9-486f-b655-398207c449ec)
+
+
 
 
 
