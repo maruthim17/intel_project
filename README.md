@@ -38,7 +38,7 @@ Power Limiting: Enables setting of power limits for different components to prev
 Dynamic Adjustment: Allows for on-the-fly adjustments of power settings based on workload demands, optimizing performance and power efficiency.
 Data Retrieval: Offers APIs to retrieve power consumption data, which can be used to make informed decisions about power management and system configuration.
 ![image](https://github.com/maruthim17/intel_project/assets/170094693/4c3dc83b-1b3e-48a8-99b5-08a816cf3378)
-CONCLUSION:![image](https://github.com/maruthim17/intel_project/assets/170094693/17529b70-350a-4e38-bef7-35606db4d119)
+CONCLUSION
 The Power Manager Telemetry Project using Intel's RAPL on Windows Subsystem for Linux (WSL) successfully demonstrated a system for monitoring, analyzing, and optimizing CPU and DRAM power consumption.
 Key Achievements:
 1.Data Collection:
