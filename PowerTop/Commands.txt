@@ -1,0 +1,12 @@
+sudo apt update
+sudo apt install powertop
+Sudo powertop
+Sudo apt-get install powertop
+nvidia-smi
+nvidia-smi --query-gpu=power.draw --format=csv
+sudo apt install ethtool
+sudo ethtool <network-interface>
+Nano power_consumption.py
+chmod +x power_consumption.py
+python3 power_consumption.py
+Sudo ethtool eth0
