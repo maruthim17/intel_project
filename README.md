@@ -6,7 +6,7 @@ Power management telemetry using Windows Subsystem for Linux (WSL) leverages the
 ![image](https://github.com/maruthim17/intel_project/assets/170094693/dcb42055-e23e-480c-a536-c43eb514b47f)
 ![image](https://github.com/maruthim17/intel_project/assets/170094693/015f5b80-4e91-462b-b08a-f96cff118183)
 
-Access to Advanced Linux Power Management Tools
+1. Access to Advanced Linux Power Management Tools
 powertop:
 -Monitor power consumption by various system components.
 -Identify power-hungry processes and optimize them.
@@ -18,7 +18,7 @@ upower:
 Resource Efficiency:
 -Minimal performance impact compared to virtual machines.
 -Lightweight nature makes it suitable for continuous monitoring tasks.
-![image](https://github.com/maruthim17/intel_project/assets/170094693/b1d94207-30cb-4db6-83ba-f9130e99bf48)
+
 
 
 
