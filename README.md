@@ -23,6 +23,32 @@ ARCHITECTURE DIAGRAM![image](https://github.com/maruthim17/intel_project/assets/
 
 ![image](https://github.com/maruthim17/intel_project/assets/170094693/aff63f3c-efc9-486f-b655-398207c449ec)
 
+TECHNOLOGIES USED:
+Intel RAPL (Running Average Power Limit)
+1.Purpose:
+-RAPL provides mechanisms to monitor and control the power consumption of various components, including CPUs, DRAM, and potentially other components.
+-It aims to optimize energy usage and enhance performance in power-sensitive applications.
+2.Usage:
+-Data Centers: Used to manage the power consumption of servers to reduce operational costs and improve energy efficiency.
+-High-Performance Computing (HPC): Ensures that HPC systems operate within power limits to maintain performance while avoiding thermal issues.
+-Power-Sensitive Applications: Essential in environments where power consumption needs to be strictly controlled, such as mobile devices and embedded systems.
+Functionality:
+Power Monitoring: Provides real-time data on the power consumption of various system components, allowing for detailed analysis.
+Power Limiting: Enables setting of power limits for different components to prevent exceeding the thermal design power (TDP) and ensure safe operation.
+Dynamic Adjustment: Allows for on-the-fly adjustments of power settings based on workload demands, optimizing performance and power efficiency.
+Data Retrieval: Offers APIs to retrieve power consumption data, which can be used to make informed decisions about power management and system configuration.
+![image](https://github.com/maruthim17/intel_project/assets/170094693/4c3dc83b-1b3e-48a8-99b5-08a816cf3378)
+CONCLUSION:![image](https://github.com/maruthim17/intel_project/assets/170094693/17529b70-350a-4e38-bef7-35606db4d119)
+The Power Manager Telemetry Project using Intel's RAPL on Windows Subsystem for Linux (WSL) successfully demonstrated a system for monitoring, analyzing, and optimizing CPU and DRAM power consumption.
+Key Achievements:
+1.Data Collection:
+-Developed Python scripts for continuous power data collection via Intel RAPL.
+-Implemented a backend service for efficient data logging and storage.
+2.Data Analysis:
+-Identified power usage patterns and performance correlations.
+In conclusion, the Power Manager Telemetry Project has laid a strong foundation for effective power monitoring and management using Intel RAPL and WSL. The insights gained and the tools developed will contribute significantly to enhancing energy efficiency and performance optimization in various computing environments. This project exemplifies the potential of combining advanced telemetry with intelligent data analysis and dynamic optimization to achieve sustainable and high-performance computing.
+s
+
 
 
 
