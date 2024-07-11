@@ -1,1 +1,5 @@
-    <iframe src="./loki2607@MSI_ ~ 2024-07-09 18-32-06.mp4" frameborder="0" width="" height=""></iframe>
+
+
+https://github.com/maruthim17/intel_project/assets/170094693/974fb513-4355-446b-80ff-b2a39f6a23a0
+
+
