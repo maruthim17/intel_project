@@ -6,7 +6,8 @@ nvidia-smi
 nvidia-smi --query-gpu=power.draw --format=csv
 sudo apt install ethtool
 sudo ethtool <network-interface>
+Sudo ethtool eth0
 Nano power_consumption.py
 chmod +x power_consumption.py
 python3 power_consumption.py
-Sudo ethtool eth0
+Nano power_consumption.py
