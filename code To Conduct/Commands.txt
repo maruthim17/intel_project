@@ -10,4 +10,3 @@ Sudo ethtool eth0
 Nano power_consumption.py
 chmod +x power_consumption.py
 python3 power_consumption.py
-Nano power_consumption.py
